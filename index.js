@@ -80,7 +80,7 @@ function imprimir_array_posicion5(array)
         }
     }
 }
-/*ejercicio 7*/ 
+/*ejercicio 8*/ 
 function imnprimir_multiplicado(array,n)
 {
     for( let index=0; index < array.length ; index++)
